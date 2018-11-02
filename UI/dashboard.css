@@ -1,0 +1,66 @@
+body{
+    background: url("img/delivery.jpg");
+    background-size: cover; 
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 1;
+}
+h1{
+    float: left;
+    color: sienna;
+    margin-left: 10px;
+}
+.nav-bar ul{
+    float: right;
+    margin-right:20%;
+}
+li{
+    margin:  0px;
+    padding: 0px;
+    list-style: none;
+}
+ul li{
+    float: left; 
+    width: 200px;
+    background-color: rgb(97, 47, 47);
+    opacity: 1;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    margin-right: 2px;
+    padding: 5px;
+    border-radius: 25px;
+
+}
+.dropdown li{
+    float: none;
+    margin-right: 0px;
+    width:100%;
+    padding-left: 0px;
+  
+  
+}
+ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+ul li a:hover{
+    background-color: rgb(65, 71, 65);
+    cursor: pointer;
+    border-radius: 25px;
+
+}
+
+ul li ul li{
+    display: none;
+}
+ul li:hover ul li{
+    display:block;
+}
+.footer{
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    height: 2.5rem; 
+}
