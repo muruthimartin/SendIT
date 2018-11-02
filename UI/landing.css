@@ -1,0 +1,53 @@
+body{
+    background: url("img/delivery_2.jpg");
+    margin: 0px;
+    padding: 0px;
+    opacity: 0.9;
+ }
+#welcome{
+    margin-top: 50px;
+    margin-bottom: 10px;
+ }
+#description{
+    width: 500px;
+    height: 100px;
+    margin-top:150px;
+    margin-left: 400px;
+}
+ h1{
+    text-align: center;
+    color: rgb(22, 19, 17);
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(22, 19, 17);
+    font-weight: 40px;
+}
+#start{
+    align-content: center;
+    width:400px;
+    height: 200px;
+    background-color: darksalmon;
+    border-radius: 25px;
+    padding: 20px;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+a{
+    text-decoration: none;
+    color:blue;
+    text-align: center;
+    padding-left: 80px;
+ }
+.footer{
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    height: 2.5rem; 
+}
+p{
+    color: sienna;
+    font-weight: 20px;
+} 
