@@ -30,7 +30,7 @@ HTML5 CSS3 JavaScript
 
 ## Github pages link
 
-https://muruthimartin.github.io/SendIT/UI/dashboard.html
+https://muruthimartin.github.io/SendIT/UI/landing.htmll
 
 ## Author:
 
