@@ -30,7 +30,7 @@ HTML5 CSS3 JavaScript
 
 ## Github pages link
 
-https://muruthimartin.github.io/SendIT/UI/landing.htmll
+https://muruthimartin.github.io/SendIT/UI/landing.html
 
 ## Author:
 
